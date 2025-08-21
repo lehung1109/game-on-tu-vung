@@ -74,5 +74,11 @@
     "emoji": "🍿",
     "options": ["bánh", "trứng", "bỏng ngô", "xúc xích"],
     "correctIndex": 2
+  },
+  {
+    "english": "meat",
+    "emoji": "🥩",
+    "options": ["bánh", "thịt", "bỏng ngô", "xúc xích"],
+    "correctIndex": 1
   }
 ]
