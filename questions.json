@@ -1,0 +1,32 @@
+[
+  {
+    "english": "water",
+    "emoji": "💧",
+    "options": ["nước", "sữa", "nước cô-ca", "kem"],
+    "correctIndex": 0
+  },
+  {
+    "english": "milk",
+    "emoji": "🥛",
+    "options": ["sữa", "nước", "nước dừa", "nước cam"],
+    "correctIndex": 0
+  },
+  {
+    "english": "like",
+    "emoji": "❤️",
+    "options": ["thích", "có", "uống", "ghét"],
+    "correctIndex": 0
+  },
+  {
+    "english": "drink",
+    "emoji": "🥤",
+    "options": ["uống", "ăn", "đi", "ngủ"],
+    "correctIndex": 0
+  },
+  {
+    "english": "ice cream",
+    "emoji": "🍦",
+    "options": ["kem", "sữa", "nước", "xúc xích"],
+    "correctIndex": 0
+  }
+]
