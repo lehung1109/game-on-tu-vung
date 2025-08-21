@@ -3,7 +3,7 @@
     "english": "eat",
     "emoji": "🍽",
     "options": ["uống", "ăn", "thích", "mặc"],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "english": "banana",
@@ -15,13 +15,13 @@
     "english": "noodles",
     "emoji": "🍜",
     "options": ["cơm", "mì", "thịt", "rau"],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "english": "rice",
     "emoji": "🍙",
     "options": ["mì", "cá", "cơm", "thịt"],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "english": "ice cream",
@@ -39,18 +39,18 @@
     "english": "hamburger",
     "emoji": "🍔",
     "options": ["bim bim", "hoa quả", "bánh hamburger", "xúc xích"],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "english": "sausage",
     "options": ["bim bim", "hoa quả", "nước", "xúc xích"],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "english": "vegetable",
     "emoji": "🥦",
     "options": ["bim bim", "rau", "nước", "xúc xích"],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "english": "fish",
@@ -60,19 +60,19 @@
   },
   {
     "english": "banhchung",
-    "options": ["bánh chưng", "hoa quả", "tôm", "xúc xích"],
-    "correctIndex": 0
+    "options": ["cá", "hoa quả", "tôm", "bánh chưng"],
+    "correctIndex": 3
   },
   {
     "english": "egg",
     "emoji": "🍳",
     "options": ["bánh chưng", "trứng", "tôm", "xúc xích"],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "english": "popcorn",
     "emoji": "🍿",
     "options": ["bánh", "trứng", "bỏng ngô", "xúc xích"],
-    "correctIndex": 0
+    "correctIndex": 2
   }
 ]
