@@ -1,32 +1,78 @@
 [
   {
-    "english": "water",
-    "emoji": "💧",
-    "options": ["nước", "sữa", "nước cô-ca", "kem"],
+    "english": "eat",
+    "emoji": "🍽",
+    "options": ["uống", "ăn", "thích", "mặc"],
     "correctIndex": 0
   },
   {
-    "english": "milk",
-    "emoji": "🥛",
-    "options": ["sữa", "nước", "nước dừa", "nước cam"],
+    "english": "banana",
+    "emoji": "🍌",
+    "options": ["quả chuối", "quả táo", "quả vải", "quả cam"],
     "correctIndex": 0
   },
   {
-    "english": "like",
-    "emoji": "❤️",
-    "options": ["thích", "có", "uống", "ghét"],
+    "english": "noodles",
+    "emoji": "🍜",
+    "options": ["cơm", "mì", "thịt", "rau"],
     "correctIndex": 0
   },
   {
-    "english": "drink",
-    "emoji": "🥤",
-    "options": ["uống", "ăn", "đi", "ngủ"],
+    "english": "rice",
+    "emoji": "🍙",
+    "options": ["mì", "cá", "cơm", "thịt"],
     "correctIndex": 0
   },
   {
     "english": "ice cream",
     "emoji": "🍦",
     "options": ["kem", "sữa", "nước", "xúc xích"],
+    "correctIndex": 0
+  },
+  {
+    "english": "chip",
+    "emoji": "🍟",
+    "options": ["bim bim", "hoa quả", "nước", "xúc xích"],
+    "correctIndex": 0
+  },
+  {
+    "english": "hamburger",
+    "emoji": "🍔",
+    "options": ["bim bim", "hoa quả", "bánh hamburger", "xúc xích"],
+    "correctIndex": 0
+  },
+  {
+    "english": "sausage",
+    "options": ["bim bim", "hoa quả", "nước", "xúc xích"],
+    "correctIndex": 0
+  },
+  {
+    "english": "vegetable",
+    "emoji": "🥦",
+    "options": ["bim bim", "rau", "nước", "xúc xích"],
+    "correctIndex": 0
+  },
+  {
+    "english": "fish",
+    "emoji": "🐟",
+    "options": ["cá", "thịt", "trứng", "xúc xích"],
+    "correctIndex": 0
+  },
+  {
+    "english": "banhchung",
+    "options": ["bánh chưng", "hoa quả", "tôm", "xúc xích"],
+    "correctIndex": 0
+  },
+  {
+    "english": "egg",
+    "emoji": "🍳",
+    "options": ["bánh chưng", "trứng", "tôm", "xúc xích"],
+    "correctIndex": 0
+  },
+  {
+    "english": "popcorn",
+    "emoji": "🍿",
+    "options": ["bánh", "trứng", "bỏng ngô", "xúc xích"],
     "correctIndex": 0
   }
 ]
