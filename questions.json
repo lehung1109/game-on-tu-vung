@@ -43,7 +43,7 @@
   },
   {
     "english": "bike",
-    "emoji": "🚲"
+    "emoji": "🚲",
     "options": ["xe ô tô", "xe đạp", "xe taxi", "máy bay"],
     "correctIndex": 2
   }
