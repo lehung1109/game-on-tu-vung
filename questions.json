@@ -6,6 +6,36 @@
     "correctIndex": 0
   },
   {
+    "english": "drink",
+    "emoji": "",
+    "options": ["rửa", "thích", "uống", "ăm"],
+    "correctIndex": 2
+  },
+  {
+    "english": "have",
+    "emoji": "",
+    "options": ["thích", "có", "rửa", "uống"],
+    "correctIndex": 1
+  },
+  {
+    "english": "like",
+    "emoji": "",
+    "options": ["uống", "rửa", "thích", "ăn"],
+    "correctIndex": 2
+  },
+  {
+    "english": "eat",
+    "emoji": "",
+    "options": ["ăn", "uống", "thích", "rửa"],
+    "correctIndex": 0
+  },
+   {
+    "english": "wash",
+    "emoji": "",
+    "options": ["ăn", "rửa", "thích", "có"],
+    "correctIndex": 1
+  },
+  {
     "english": "face",
     "emoji": "👱",
     "options": ["mũi", "mặt", "tay", "chân"],
