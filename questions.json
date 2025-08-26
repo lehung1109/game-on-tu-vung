@@ -27,7 +27,7 @@
     "english": "hair",
     "emoji": "",
     "options": ["tay", "tóc", "chân", "mặt"],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "english": "a foot",
@@ -39,12 +39,12 @@
     "english": "two feet",
     "emoji": "",
     "options": ["2 đôi tay", "2 bàn chân", "2 chiếc kem", "2 chiếc xúc xích"],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "english": "bike",
     "emoji": "🚲",
     "options": ["xe ô tô", "xe đạp", "xe taxi", "máy bay"],
-    "correctIndex": 2
+    "correctIndex": 1
   }
     ]
